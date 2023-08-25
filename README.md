@@ -1,13 +1,17 @@
-# 1. Avec la ligne de commande, créer un nouveau projet Laravel :
-laravel new portfolio
+# Création d'un site statique avec Laravel
+Utilisation d'un template Laravel v8.58.0 pour fonctionner avec la version de PHP v7.3.31-1 sur webdev.
 
-# 2. Thème Bootstrap utilisé :
-https://startbootstrap.com/theme/personal
+#### Ligne de commande pour créer un nouveau projet Laravel
+`laravel new portfolio`
 
-# 3. Votre projet doit avoir un contrôleur, utilisez la ligne de commande pour le créer :
-php artisan make:controller PortfolioController
+#### Design utilisé
+Thème Bootstrap : https://startbootstrap.com/theme/personal
 
-# 4. Lien webdev :
+#### Ligne de commande pour créer un contrôleur
+`php artisan make:controller PortfolioController`
+
+#### Lien webdev
 https://e2296540.webdev.cmaisonneuve.qc.ca/portfolio/
 
-# 5. Lien github :
+#### Lien github
+https://github.com/Michijoe/s4_laravel_Portfolio
